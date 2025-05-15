@@ -9,4 +9,4 @@ Un petit site web personnel fait en HTML/CSS
 -Tableaux
 
 ## Auteur
-[Angela1467](https://github.com/Angela1467)
+[Angel1467](https://github.com/Angel1467)
